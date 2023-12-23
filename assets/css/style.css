@@ -46,6 +46,7 @@
   }
   .container .text_content h1{
     margin: 15px 0;
+    font-size: 32px;
     font-family: 'Fraunces', serif;
   }
   .container .text_content p{
@@ -94,7 +95,7 @@
       display: none;
     }
     body{
-      font-size: calc(28 / 750 * 100vw);
+      font-size: calc(29 / 750 * 100vw);
     }
     .container{
       display: block;
@@ -130,6 +131,7 @@
     }
     .container .text_content h1{
       margin: calc(30 / 750 * 100vw) 0;
+      font-size: calc(60 / 750 * 100vw);
     }
     .container .text_content .discount_price{
       font-size: calc(60 / 750 * 100vw);
